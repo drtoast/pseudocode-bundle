@@ -1,6 +1,6 @@
 # About
 
-Bundle for Ruby-like pseudocode syntax colorization in TextMate.  Useful for writing business-readable documentation and prototyping.
+TextMate bundle for Ruby-like pseudocode syntax colorization.  Useful for writing business-readable documentation and prototyping.
 
 ![screenshot](https://github.com/drtoast/pseudocode-bundle/raw/master/example.png)
 
