@@ -1,6 +1,8 @@
-# Description
+# About
 
 Syntax colorization for Ruby-like pseudocode.  Useful for writing business-readable documentation and prototyping.
+
+![screenshot](https://github.com/drtoast/pseudocode-textmate-bundle/raw/master/example.png)
 
 # Installation
 

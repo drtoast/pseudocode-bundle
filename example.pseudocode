@@ -1,0 +1,19 @@
+Example:
+
+# do some really important business logic
+For each order in the :new_orders list:
+    If the :order_status is "new",
+        and the order's :import_date is on or before TODAY,
+        and the current picklist's :status is true,
+    Then clear out the :order_status so the order can be picked.
+
+Legend:
+
+CONSTANT
+ClassName
+:variable
+"string"
+# comments
+and/or/not: logic
+true/false: boolean
+if/then/else/for/unless/each/case: control flow

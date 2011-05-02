@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>fileTypes</key>
-	<array/>
+	<array>
+		<string>pseudocode</string>
+	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*\*|\{\s*$</string>
 	<key>foldingStopMarker</key>
@@ -26,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(If|Case|Then|Else|Unless|Each|For|End|if|else|then|unless|each|for|end)\b</string>
+			<string>\b(If|Case|Then|Else|Unless|Each|For|End|if|else|then|unless|each|for|end|case)\b</string>
 			<key>name</key>
 			<string>keyword.control.pseudocode</string>
 		</dict>
